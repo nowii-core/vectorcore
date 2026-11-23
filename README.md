@@ -2,7 +2,6 @@
   <h1>VectorCore</h1>
   <p><strong>A zero-dependency vector and hybrid search engine in pure Rust.</strong></p>
   <p>Version 0.2.0 · nowii-core · HNSW + BM25 + RRF · WAL + Snapshot</p>
-  <p><a href="https://github.com/nowii-core/vectorcore"><strong>View Repository on GitHub →</strong></a></p>
 </div>
 
 <p align="center">
