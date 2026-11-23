@@ -1,0 +1,14 @@
+[package]
+name = "vectorcore"
+version = "0.2.0"
+edition = "2021"
+authors = ["nowii-core"]
+description = "Zero-heavy-dependency vector + full-text (BM25 + HNSW + WAL + Snapshot + RRF) search engine written in pure Rust"
+
+[dependencies]
+
+[dev-dependencies]
+
+[[bench]]
+name = "search_bench"
+harness = false
